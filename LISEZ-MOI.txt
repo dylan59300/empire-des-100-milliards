@@ -1,0 +1,17 @@
+ASSISTANT STATUS — STERLING CROWN GROUP (VERSION 3)
+1. Décompressez l’archive.
+2. Déployez les fichiers dans votre dépôt GitHub relié à Netlify, ou hébergez-les sur un serveur HTTPS.
+3. Ouvrez le site sur Android et choisissez « Ajouter à l’écran d’accueil » dans le menu du navigateur.
+4. Les données sont enregistrées localement dans le navigateur de cet appareil.
+5. Utilisez Sauvegarde > Exporter régulièrement un fichier JSON.
+
+NOUVEAUTÉS VERSION 3
+- Onglet « Événements STATUS » avec cinq cases pour coller les événements du vrai jeu.
+- Analyse locale du type d’événement et recommandation du porte-parole.
+- Choix de décisions adaptés au contexte, avec recommandation mise en évidence ; la décision finale reste à l’utilisateur.
+- Aperçu financier indicatif pour les montants détectés, sans modification automatique des soldes.
+- Génération de communiqués individuels et d’un communiqué global.
+- Onglet « Décisions » pour suivre les propositions : en attente, acceptées, refusées ou contre-offre envoyée.
+- Historique des décisions et communiqués associés dans le journal.
+
+Le générateur d’événements du jeu n’est pas reproduit ici : les événements sont générés par STATUS et doivent être collés manuellement. Cette application n’est pas affiliée à STATUS et ne récupère pas automatiquement ses données. Les réponses utilisent des règles et modèles intégrés, sans API d’IA payante ; les analyses et montants détectés sont indicatifs et doivent être vérifiés. Les décisions enregistrées ici ne modifient pas le jeu STATUS.

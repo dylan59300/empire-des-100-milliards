@@ -1,10 +1,10 @@
 {
-  "name": "Adrian Sterling — Sterling Crown Group",
-  "short_name": "Mon Empire",
-  "lang": "fr",
+  "name": "Assistant STATUS — Sterling Crown Group",
+  "short_name": "Assistant STATUS",
+  "lang": "fr-FR",
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#10131b",
-  "theme_color": "#10131b",
-  "description": "Gestion de fortune, empire, finances et import manuel des événements STATUS."
+  "background_color": "#101014",
+  "theme_color": "#101014",
+  "description": "Organise l'univers STATUS d'Adrian Sterling."
 }
