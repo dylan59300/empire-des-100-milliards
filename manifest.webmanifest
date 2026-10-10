@@ -6,5 +6,5 @@
   "display": "standalone",
   "background_color": "#10131b",
   "theme_color": "#10131b",
-  "description": "Tableau de bord avec patrimoine personnel et empire séparés, finances et sauvegardes."
+  "description": "Gestion de fortune, empire, finances et import manuel des événements STATUS."
 }
